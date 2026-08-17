@@ -1,5 +1,31 @@
-.venv/
+# Python
 __pycache__/
 *.pyc
+*.pyo
+.env
+
+# Virtual envs
+venv/
+.venv/
+
+# Logs
+logs/*.log
+logs/startup_*.log
+jarvis.log
+jarvis_start.log
+jarvis.error.log
+
+# Config secrets
+config/api_keys.json
+config/integrations.json
+config/tokens/
+
+# Memory / state
+memory/long_term.json
+memory/tasks.json
+core/active_persona.json
+
+# Misc
+.DS_Store
 output/
 .claude/settings.local.json

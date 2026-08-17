@@ -1,0 +1,11 @@
+{
+  "ignored_senders": [
+    "zoom"
+  ],
+  "ignored_keywords": [
+    "meeting"
+  ],
+  "important_senders": [],
+  "auto_reply_patterns": [],
+  "learned_labels": {}
+}
