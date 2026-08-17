@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(/Users/anumulaashok/Desktop/JarvisProjects/saas_problem_agent/**)",
+      "Write(/Users/anumulaashok/Desktop/JarvisProjects/saas_problem_agent/**)",
+      "Bash(python3 /Users/anumulaashok/Desktop/JarvisProjects/saas_problem_agent/*.py*)",
+      "Bash(/Users/anumulaashok/Desktop/JarvisProjects/saas_problem_agent/.venv/bin/python3*)",
+      "Bash(/Users/anumulaashok/Desktop/JarvisProjects/saas_problem_agent/.venv/bin/pip*)"
+    ]
+  }
+}
